@@ -5,4 +5,4 @@ project(lesta_test_task LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(lesta_test_task main.cpp iseven.h iseven.cpp circularbuffer.h)
+add_executable(lesta_test_task main.cpp iseven.h iseven.cpp circularbuffer.h circularbuffer2.h sort.h sort.cpp)
